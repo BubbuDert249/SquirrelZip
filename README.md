@@ -5,5 +5,5 @@ Supported archive formats: <br>
 |----------|----------|----------|------|-------|
 | VPK | Valve PaK (Source 1 only) | ✅ | ✅ | ✅ |
 | ZIP | ZIP File | ❌ | ✅ | ❌ |
-| TAR | Tarballs | ✅ | ✅ | ✅ |
+| TAR | Tarball | ✅ | ✅ | ✅ |
 | GZ | Gzip | ❌ | ✅ | ✅ |
