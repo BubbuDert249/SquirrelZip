@@ -1,5 +1,5 @@
-# VPKEdit-nut
-A recreation of VPKEdit in Squirrel <br>
+# SquirrelZip
+A archive reader/writer/creator in Squirrel <br>
 Supported archive formats: <br>
 | Format   | Description | Create | Read | Write |
 |----------|----------|----------|------|-------|
